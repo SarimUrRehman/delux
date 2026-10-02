@@ -1,0 +1,6 @@
+{
+  "name": "Deluxe Auto Care - Detallado Profesional",
+  "description": "Detallado automotriz profesional interior y exterior con servicio a domicilio en Ensenada, B.C., México. Transformamos tu auto a nivel premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
